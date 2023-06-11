@@ -1,0 +1,1 @@
+SELECT tytul FROM ksiazki WHERE ksiazkSELECT autorzy.nazwisko, COUNT(ksiazki.id_autor) AS ilosc FROM autorzy, ksiazki WHERE autorzy.id = ksiazki.id_autor GROUP BY ksiazki.id_autor;
