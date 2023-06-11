@@ -1,0 +1,31 @@
+.baner{
+    background-color: #18FFA4;
+    height: 50px;
+}
+.stopka{
+    background-color: #18FFA4; height: 50px; text-align: center; clear: both;
+}
+.lewy{
+    background-color: #AEFFCF; height: 550px; width: 30%; float: left;
+}
+.srodkowy{
+    background-color: #DDFFCD; height: 550px; width: 40%; float: left;
+}
+.prawy{
+    background-color: #AEFFCF; height: 550px; width: 30%; float: left;
+}
+
+ul{
+    margin-left: 100px;
+}
+img{
+    margin: 100px;
+    float: left;
+}
+h4{
+    margin-left: 100px;
+    margin-top: 200px;
+}
+h2, h3{
+    text-align: center;
+}
